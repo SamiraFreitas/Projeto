@@ -1,4 +1,5 @@
-
+![alura1aula](https://user-images.githubusercontent.com/73719899/126573193-5b4a93af-7be7-4aac-9429-adb52cdd4c50.png)
+---
 ## 📜 Índice
 - [📜 Índice](#-índice)
 - [📝 Sobre](#-sobre)
