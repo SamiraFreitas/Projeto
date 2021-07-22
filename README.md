@@ -1,4 +1,4 @@
-![alura1aula](https://user-images.githubusercontent.com/73719899/126573193-5b4a93af-7be7-4aac-9429-adb52cdd4c50.png)
+![tela](https://user-images.githubusercontent.com/73719899/126670428-a18c0314-4964-4187-8637-c22600679bc7.png)
 ---
 ## 📜 Índice
 - [📜 Índice](#-índice)
