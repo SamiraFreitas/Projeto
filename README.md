@@ -28,9 +28,9 @@ Essa aplicação possui um protótipo que pode ser acessado através do link  [F
 
 ```bash
 #Clonando o repositorio 
-$ git clone https://github.com/SamiraFreitas/AluraKut
+$ git clone https://github.com/SamiraFreitas/Projeto
 #Entrar na pasta
-$ cd alurakut
+$ cd Projeto
 # Instalar as dependências
 $ yarn install
 #Rode o projeto 
